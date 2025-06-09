@@ -58,15 +58,11 @@ mvn test
 
 ## Diagrama Entidade Relacionamento
 
-FALTA DIAGRAMA
-FALTA DIAGRAMA
-FALTA DIAGRAMA
+
 
 ## Arquitetura do Sistema
 
-FALTA DIAGRAMA
-FALTA DIAGRAMA
-FALTA DIAGRAMA
+
 
 ## Equipe
     Eduardo Função - RM553362
